@@ -30,8 +30,8 @@ class ProvinceTableSeeder extends Seeder
 			],	
 			[
 				'name' 			=> 'Dajabón',
-				'created_at' 	=> new DateTime,
-				'updated_at' 	=> new DateTime
+				'created_at' 		=> new DateTime,
+				'updated_at' 		=> new DateTime
 			],
 			[
 				'name' 			=> 'Distrito Nacional',
