@@ -12,7 +12,9 @@ Modelos, Migraciones y Seeders de las provincias, municipios y distritos municip
 Nota: si ya estructuraste tu BD y solo quieres los seeders de este repositorio, solo se deben correr los siguientes comandos:
 
 1 - php artisan db:seed --class=ProvinceTableSeeder
+
 2 - php artisan db:seed --class=MunicipalityTableSeeder
+
 3 - php artisan db:seed --class=DistrictTableSeeder
 
 Esto es una colaboración y si estas interesado en que lo mejoremos solo comentalo ;). 
