@@ -12,9 +12,9 @@ class DistrictTableSeeder extends Seeder
     {
         
     	$data = array(
-			[
-				'name' => 'Barreras',
-				'municipality_id' => '2', 
+	    [
+		'name' => 'Barreras',
+		'municipality_id' => '2', 
                 'created_at'    => new DateTime,
                 'updated_at'    => new DateTime
 			],
