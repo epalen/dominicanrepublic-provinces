@@ -7,7 +7,7 @@ Modelos, Migraciones y Seeders de las provincias, municipios y distritos municip
 
 3 - Al copiar los archivos en su proyecto, solo se debe ejecutar comando 'php artisan migrate', este creara la estructura de las tablas en la BD.
 
-4 - Al crear las tablas, ejecutar comando 'php artisan db:seed', lo que poblará los campos de las tablas en la BD.
+4 - Al crear las tablas, ejecutar comando 'php artisan db:seed', lo que poblará los campos en la BD.
 
 Nota: si ya estructuraste tu BD y solo quieres los seeders de este repositorio, solo se deben correr los siguientes comandos:
 
